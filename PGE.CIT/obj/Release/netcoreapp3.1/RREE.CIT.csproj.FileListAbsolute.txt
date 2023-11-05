@@ -1,0 +1,13 @@
+C:\Mis Proyectos MRE\RREE.Comun\RREE.CIT\bin\Release\netcoreapp3.1\RREE.CIT.deps.json
+C:\Mis Proyectos MRE\RREE.Comun\RREE.CIT\bin\Release\netcoreapp3.1\RREE.CIT.runtimeconfig.json
+C:\Mis Proyectos MRE\RREE.Comun\RREE.CIT\bin\Release\netcoreapp3.1\RREE.CIT.runtimeconfig.dev.json
+C:\Mis Proyectos MRE\RREE.Comun\RREE.CIT\bin\Release\netcoreapp3.1\RREE.CIT.dll
+C:\Mis Proyectos MRE\RREE.Comun\RREE.CIT\bin\Release\netcoreapp3.1\RREE.CIT.pdb
+C:\Mis Proyectos MRE\RREE.Comun\RREE.CIT\obj\Release\netcoreapp3.1\RREE.CIT.csproj.AssemblyReference.cache
+C:\Mis Proyectos MRE\RREE.Comun\RREE.CIT\obj\Release\netcoreapp3.1\RREE.CIT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mis Proyectos MRE\RREE.Comun\RREE.CIT\obj\Release\netcoreapp3.1\RREE.CIT.AssemblyInfoInputs.cache
+C:\Mis Proyectos MRE\RREE.Comun\RREE.CIT\obj\Release\netcoreapp3.1\RREE.CIT.AssemblyInfo.cs
+C:\Mis Proyectos MRE\RREE.Comun\RREE.CIT\obj\Release\netcoreapp3.1\RREE.CIT.csproj.CoreCompileInputs.cache
+C:\Mis Proyectos MRE\RREE.Comun\RREE.CIT\obj\Release\netcoreapp3.1\RREE.CIT.dll
+C:\Mis Proyectos MRE\RREE.Comun\RREE.CIT\obj\Release\netcoreapp3.1\RREE.CIT.pdb
+C:\Mis Proyectos MRE\RREE.Comun\RREE.CIT\obj\Release\netcoreapp3.1\RREE.CIT.genruntimeconfig.cache

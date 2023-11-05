@@ -1,0 +1,13 @@
+D:\ProyectosProcu\PGE.Comun\RREE.CIT\bin\Release\netcoreapp3.1\PGE.CIT.deps.json
+D:\ProyectosProcu\PGE.Comun\RREE.CIT\bin\Release\netcoreapp3.1\PGE.CIT.runtimeconfig.json
+D:\ProyectosProcu\PGE.Comun\RREE.CIT\bin\Release\netcoreapp3.1\PGE.CIT.runtimeconfig.dev.json
+D:\ProyectosProcu\PGE.Comun\RREE.CIT\bin\Release\netcoreapp3.1\PGE.CIT.dll
+D:\ProyectosProcu\PGE.Comun\RREE.CIT\bin\Release\netcoreapp3.1\PGE.CIT.pdb
+D:\ProyectosProcu\PGE.Comun\RREE.CIT\obj\Release\netcoreapp3.1\PGE.CIT.csproj.AssemblyReference.cache
+D:\ProyectosProcu\PGE.Comun\RREE.CIT\obj\Release\netcoreapp3.1\PGE.CIT.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProyectosProcu\PGE.Comun\RREE.CIT\obj\Release\netcoreapp3.1\PGE.CIT.AssemblyInfoInputs.cache
+D:\ProyectosProcu\PGE.Comun\RREE.CIT\obj\Release\netcoreapp3.1\PGE.CIT.AssemblyInfo.cs
+D:\ProyectosProcu\PGE.Comun\RREE.CIT\obj\Release\netcoreapp3.1\PGE.CIT.csproj.CoreCompileInputs.cache
+D:\ProyectosProcu\PGE.Comun\RREE.CIT\obj\Release\netcoreapp3.1\PGE.CIT.dll
+D:\ProyectosProcu\PGE.Comun\RREE.CIT\obj\Release\netcoreapp3.1\PGE.CIT.pdb
+D:\ProyectosProcu\PGE.Comun\RREE.CIT\obj\Release\netcoreapp3.1\PGE.CIT.genruntimeconfig.cache

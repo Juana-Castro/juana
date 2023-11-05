@@ -1,0 +1,76 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\ProyectosProcu\\PGE.Comun\\RREE.CIT\\RREE.CIT.csproj": {}
+  },
+  "projects": {
+    "D:\\ProyectosProcu\\PGE.Comun\\RREE.CIT\\RREE.CIT.csproj": {
+      "version": "1.0.2",
+      "restore": {
+        "projectUniqueName": "D:\\ProyectosProcu\\PGE.Comun\\RREE.CIT\\RREE.CIT.csproj",
+        "projectName": "RREE.CIT",
+        "projectPath": "D:\\ProyectosProcu\\PGE.Comun\\RREE.CIT\\RREE.CIT.csproj",
+        "packagesPath": "C:\\Users\\Franz\\.nuget\\packages\\",
+        "outputPath": "D:\\ProyectosProcu\\PGE.Comun\\RREE.CIT\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Franz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\Personal\\Paquetes": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.12, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

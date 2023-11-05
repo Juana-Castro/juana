@@ -1,0 +1,65 @@
+C:\Mis Proyectos MRE\RREE.Comun\RREE.CIT\bin\Debug\netcoreapp3.1\RREE.CIT.deps.json
+C:\Mis Proyectos MRE\RREE.Comun\RREE.CIT\bin\Debug\netcoreapp3.1\RREE.CIT.runtimeconfig.json
+C:\Mis Proyectos MRE\RREE.Comun\RREE.CIT\bin\Debug\netcoreapp3.1\RREE.CIT.runtimeconfig.dev.json
+C:\Mis Proyectos MRE\RREE.Comun\RREE.CIT\bin\Debug\netcoreapp3.1\RREE.CIT.dll
+C:\Mis Proyectos MRE\RREE.Comun\RREE.CIT\bin\Debug\netcoreapp3.1\RREE.CIT.pdb
+C:\Mis Proyectos MRE\RREE.Comun\RREE.CIT\obj\Debug\netcoreapp3.1\RREE.CIT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mis Proyectos MRE\RREE.Comun\RREE.CIT\obj\Debug\netcoreapp3.1\RREE.CIT.AssemblyInfoInputs.cache
+C:\Mis Proyectos MRE\RREE.Comun\RREE.CIT\obj\Debug\netcoreapp3.1\RREE.CIT.AssemblyInfo.cs
+C:\Mis Proyectos MRE\RREE.Comun\RREE.CIT\obj\Debug\netcoreapp3.1\RREE.CIT.csproj.CoreCompileInputs.cache
+C:\Mis Proyectos MRE\RREE.Comun\RREE.CIT\obj\Debug\netcoreapp3.1\RREE.CIT.dll
+C:\Mis Proyectos MRE\RREE.Comun\RREE.CIT\obj\Debug\netcoreapp3.1\RREE.CIT.pdb
+C:\Mis Proyectos MRE\RREE.Comun\RREE.CIT\obj\Debug\netcoreapp3.1\RREE.CIT.genruntimeconfig.cache
+C:\Mis Proyectos MRE\RREE.Comun\RREE.CIT\obj\Debug\netcoreapp3.1\RREE.CIT.csproj.AssemblyReference.cache
+E:\Mis Proyectos MRE\RREE.Comun\RREE.CIT\bin\Debug\netcoreapp3.1\RREE.CIT.deps.json
+E:\Mis Proyectos MRE\RREE.Comun\RREE.CIT\bin\Debug\netcoreapp3.1\RREE.CIT.runtimeconfig.json
+E:\Mis Proyectos MRE\RREE.Comun\RREE.CIT\bin\Debug\netcoreapp3.1\RREE.CIT.runtimeconfig.dev.json
+E:\Mis Proyectos MRE\RREE.Comun\RREE.CIT\bin\Debug\netcoreapp3.1\RREE.CIT.dll
+E:\Mis Proyectos MRE\RREE.Comun\RREE.CIT\bin\Debug\netcoreapp3.1\RREE.CIT.pdb
+E:\Mis Proyectos MRE\RREE.Comun\RREE.CIT\obj\Debug\netcoreapp3.1\RREE.CIT.csproj.AssemblyReference.cache
+E:\Mis Proyectos MRE\RREE.Comun\RREE.CIT\obj\Debug\netcoreapp3.1\RREE.CIT.GeneratedMSBuildEditorConfig.editorconfig
+E:\Mis Proyectos MRE\RREE.Comun\RREE.CIT\obj\Debug\netcoreapp3.1\RREE.CIT.AssemblyInfoInputs.cache
+E:\Mis Proyectos MRE\RREE.Comun\RREE.CIT\obj\Debug\netcoreapp3.1\RREE.CIT.AssemblyInfo.cs
+E:\Mis Proyectos MRE\RREE.Comun\RREE.CIT\obj\Debug\netcoreapp3.1\RREE.CIT.csproj.CoreCompileInputs.cache
+E:\Mis Proyectos MRE\RREE.Comun\RREE.CIT\obj\Debug\netcoreapp3.1\RREE.CIT.dll
+E:\Mis Proyectos MRE\RREE.Comun\RREE.CIT\obj\Debug\netcoreapp3.1\RREE.CIT.pdb
+E:\Mis Proyectos MRE\RREE.Comun\RREE.CIT\obj\Debug\netcoreapp3.1\RREE.CIT.genruntimeconfig.cache
+F:\ProyectosMRE\Mis Proyectos MRE\RREE.Comun\RREE.CIT\bin\Debug\netcoreapp3.1\RREE.CIT.deps.json
+F:\ProyectosMRE\Mis Proyectos MRE\RREE.Comun\RREE.CIT\bin\Debug\netcoreapp3.1\RREE.CIT.runtimeconfig.json
+F:\ProyectosMRE\Mis Proyectos MRE\RREE.Comun\RREE.CIT\bin\Debug\netcoreapp3.1\RREE.CIT.runtimeconfig.dev.json
+F:\ProyectosMRE\Mis Proyectos MRE\RREE.Comun\RREE.CIT\bin\Debug\netcoreapp3.1\RREE.CIT.dll
+F:\ProyectosMRE\Mis Proyectos MRE\RREE.Comun\RREE.CIT\bin\Debug\netcoreapp3.1\RREE.CIT.pdb
+F:\ProyectosMRE\Mis Proyectos MRE\RREE.Comun\RREE.CIT\obj\Debug\netcoreapp3.1\RREE.CIT.csproj.AssemblyReference.cache
+F:\ProyectosMRE\Mis Proyectos MRE\RREE.Comun\RREE.CIT\obj\Debug\netcoreapp3.1\RREE.CIT.GeneratedMSBuildEditorConfig.editorconfig
+F:\ProyectosMRE\Mis Proyectos MRE\RREE.Comun\RREE.CIT\obj\Debug\netcoreapp3.1\RREE.CIT.AssemblyInfoInputs.cache
+F:\ProyectosMRE\Mis Proyectos MRE\RREE.Comun\RREE.CIT\obj\Debug\netcoreapp3.1\RREE.CIT.AssemblyInfo.cs
+F:\ProyectosMRE\Mis Proyectos MRE\RREE.Comun\RREE.CIT\obj\Debug\netcoreapp3.1\RREE.CIT.csproj.CoreCompileInputs.cache
+F:\ProyectosMRE\Mis Proyectos MRE\RREE.Comun\RREE.CIT\obj\Debug\netcoreapp3.1\RREE.CIT.dll
+F:\ProyectosMRE\Mis Proyectos MRE\RREE.Comun\RREE.CIT\obj\Debug\netcoreapp3.1\RREE.CIT.pdb
+F:\ProyectosMRE\Mis Proyectos MRE\RREE.Comun\RREE.CIT\obj\Debug\netcoreapp3.1\RREE.CIT.genruntimeconfig.cache
+D:\ProyectosMRE\Mis Proyectos MRE\RREE.Comun\RREE.CIT\bin\Debug\netcoreapp3.1\RREE.CIT.deps.json
+D:\ProyectosMRE\Mis Proyectos MRE\RREE.Comun\RREE.CIT\bin\Debug\netcoreapp3.1\RREE.CIT.runtimeconfig.json
+D:\ProyectosMRE\Mis Proyectos MRE\RREE.Comun\RREE.CIT\bin\Debug\netcoreapp3.1\RREE.CIT.runtimeconfig.dev.json
+D:\ProyectosMRE\Mis Proyectos MRE\RREE.Comun\RREE.CIT\bin\Debug\netcoreapp3.1\RREE.CIT.dll
+D:\ProyectosMRE\Mis Proyectos MRE\RREE.Comun\RREE.CIT\bin\Debug\netcoreapp3.1\RREE.CIT.pdb
+D:\ProyectosMRE\Mis Proyectos MRE\RREE.Comun\RREE.CIT\obj\Debug\netcoreapp3.1\RREE.CIT.csproj.AssemblyReference.cache
+D:\ProyectosMRE\Mis Proyectos MRE\RREE.Comun\RREE.CIT\obj\Debug\netcoreapp3.1\RREE.CIT.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProyectosMRE\Mis Proyectos MRE\RREE.Comun\RREE.CIT\obj\Debug\netcoreapp3.1\RREE.CIT.AssemblyInfoInputs.cache
+D:\ProyectosMRE\Mis Proyectos MRE\RREE.Comun\RREE.CIT\obj\Debug\netcoreapp3.1\RREE.CIT.AssemblyInfo.cs
+D:\ProyectosMRE\Mis Proyectos MRE\RREE.Comun\RREE.CIT\obj\Debug\netcoreapp3.1\RREE.CIT.csproj.CoreCompileInputs.cache
+D:\ProyectosMRE\Mis Proyectos MRE\RREE.Comun\RREE.CIT\obj\Debug\netcoreapp3.1\RREE.CIT.dll
+D:\ProyectosMRE\Mis Proyectos MRE\RREE.Comun\RREE.CIT\obj\Debug\netcoreapp3.1\RREE.CIT.pdb
+D:\ProyectosMRE\Mis Proyectos MRE\RREE.Comun\RREE.CIT\obj\Debug\netcoreapp3.1\RREE.CIT.genruntimeconfig.cache
+D:\ProyectosProcu\RREE.Comun\RREE.CIT\bin\Debug\netcoreapp3.1\RREE.CIT.deps.json
+D:\ProyectosProcu\RREE.Comun\RREE.CIT\bin\Debug\netcoreapp3.1\RREE.CIT.runtimeconfig.json
+D:\ProyectosProcu\RREE.Comun\RREE.CIT\bin\Debug\netcoreapp3.1\RREE.CIT.runtimeconfig.dev.json
+D:\ProyectosProcu\RREE.Comun\RREE.CIT\bin\Debug\netcoreapp3.1\RREE.CIT.dll
+D:\ProyectosProcu\RREE.Comun\RREE.CIT\bin\Debug\netcoreapp3.1\RREE.CIT.pdb
+D:\ProyectosProcu\RREE.Comun\RREE.CIT\obj\Debug\netcoreapp3.1\RREE.CIT.csproj.AssemblyReference.cache
+D:\ProyectosProcu\RREE.Comun\RREE.CIT\obj\Debug\netcoreapp3.1\RREE.CIT.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProyectosProcu\RREE.Comun\RREE.CIT\obj\Debug\netcoreapp3.1\RREE.CIT.AssemblyInfoInputs.cache
+D:\ProyectosProcu\RREE.Comun\RREE.CIT\obj\Debug\netcoreapp3.1\RREE.CIT.AssemblyInfo.cs
+D:\ProyectosProcu\RREE.Comun\RREE.CIT\obj\Debug\netcoreapp3.1\RREE.CIT.csproj.CoreCompileInputs.cache
+D:\ProyectosProcu\RREE.Comun\RREE.CIT\obj\Debug\netcoreapp3.1\RREE.CIT.dll
+D:\ProyectosProcu\RREE.Comun\RREE.CIT\obj\Debug\netcoreapp3.1\RREE.CIT.pdb
+D:\ProyectosProcu\RREE.Comun\RREE.CIT\obj\Debug\netcoreapp3.1\RREE.CIT.genruntimeconfig.cache
